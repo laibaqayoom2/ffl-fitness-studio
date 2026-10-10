@@ -34,7 +34,7 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 6rem;
+  scroll-padding-top: 4rem;
   overflow-x: clip;
 }
 
@@ -996,6 +996,7 @@ details p {
 
   html {
     scroll-behavior: smooth;
+    transition-duration: 0ms;
   }
 
   details {
